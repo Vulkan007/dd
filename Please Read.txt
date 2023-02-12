@@ -1,0 +1,7 @@
+Dependencies
+1. Android Studio
+2. VS code
+3. SQlite
+
+We created website (admin view) and tried to create an app but it was not completed .We created it to a certain extent.
+But in video we've explained our UI & Working.
